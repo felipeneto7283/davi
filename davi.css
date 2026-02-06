@@ -45,3 +45,20 @@ text-decoration: none;
     display: block;
     margin: 20px auto;
 }
+#som {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+#s1{
+    text-align: center;
+}
+#cao{
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin: 20px auto;
+}
+.leg3{
+    text-align: center;
+}
